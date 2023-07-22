@@ -20,6 +20,7 @@ body {
     margin: 0 auto;
     height: auto;
 
+
 }
 
 img {
@@ -116,6 +117,9 @@ h2 {
     justify-content: space-between;
     align-items: center;
     padding: 2rem 9rem;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
 
 .divider {
@@ -145,6 +149,7 @@ ul li {
 .navbar a {
     color: hsl(233, 8%, 79%);
     text-decoration: none;
+    font-weight: normal;
 }
 
 
